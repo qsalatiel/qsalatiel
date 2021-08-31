@@ -1,22 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**salatielq/salatielq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Salatiel Queiroz, self-taught Front-end developer who used to be a designer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently full-time freelancing you can see some projects on [my website](https://salatiel.work)
+- 🌱 I’m currently learning Typescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------
 
-![Salatiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=salatielq&show_icons=true)
+**💻 My top languages based on Github commits**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salatielq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![My wakatime weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=salatielq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salatielq&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+**📊 This week I spent my time on**
+
+[![My wakatime weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=salatielq&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
