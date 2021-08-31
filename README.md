@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salatielq)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=salatielq)](https://github.com/anuraghazra/github-readme-stats)
+
