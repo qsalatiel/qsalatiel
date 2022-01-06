@@ -9,7 +9,7 @@ I'm Salatiel Queiroz, self-taught Front-end developer who used to be a designer.
 
 **💻 My top languages based on Github commits**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salatielq&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qsalatiel&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **📊 This week I spent my time on**
 
