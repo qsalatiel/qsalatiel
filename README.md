@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm Salatiel Queiroz, self-taught Front-end developer who used to be a designer.
+I'm Salatiel Queiroz, self-taught developer and former designer.
 
-- 🔭 I’m currently full-time freelancing you can see some projects on [my website](https://salatiel.work)
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m working at [CheesecakeLabs](https://github.com/CheesecakeLabs)
+- 📱 I’m currently developing React Native applications with Typescript
 
 ----------
 
